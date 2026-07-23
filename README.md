@@ -12,7 +12,11 @@ after this you need to download the
 
 
 cd ~/Downloads
+
 tar -xzf archtunes-v17.tar.gz
+
 cd archtunes
+
 ./install.sh
+
 /usr/bin/python3 ~/Applications/ArchTunes/main.py
