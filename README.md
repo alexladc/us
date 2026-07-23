@@ -1,2 +1,2 @@
-# us
-me
+# SimplePlay
+an simple music player for linux
